@@ -11,7 +11,7 @@ int main() {
     
     produit = nombre1 * nombre2;
     
-    std::cout << "/nLe produit de " << nombre1 << " et " << nombre2 
+    std::cout << "\nLe produit de " << nombre1 << " et " << nombre2 
               << " est : " << produit << std::endl;
     
     return 0;
